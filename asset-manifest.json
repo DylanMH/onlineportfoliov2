@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/onlineportfoliov2/static/css/main.6ccd65a8.css",
-    "main.js": "/onlineportfoliov2/static/js/main.16c86f8b.js",
+    "main.js": "/onlineportfoliov2/static/js/main.a0ae644e.js",
     "static/js/787.7409a542.chunk.js": "/onlineportfoliov2/static/js/787.7409a542.chunk.js",
     "static/media/nspm.png": "/onlineportfoliov2/static/media/nspm.b7ca129f87696f3e1575.png",
     "static/media/webdevelopmentCert.png": "/onlineportfoliov2/static/media/webdevelopmentCert.13f0b7da611aca7a2313.png",
+    "static/media/eCommercePython.png": "/onlineportfoliov2/static/media/eCommercePython.0b64afed5d0a23ab7196.png",
+    "static/media/tableauProject.png": "/onlineportfoliov2/static/media/tableauProject.d8337026b60b735f4450.png",
     "static/media/newapprenticeCert.jpg": "/onlineportfoliov2/static/media/newapprenticeCert.f44b833c3086b3bab9d9.jpg",
     "static/media/reactCalc.png": "/onlineportfoliov2/static/media/reactCalc.7a69951b2699aaa5a5ac.png",
     "static/media/bloggy.png": "/onlineportfoliov2/static/media/bloggy.c4e0576ecfc268fcdc09.png",
     "static/media/profilePicture.png": "/onlineportfoliov2/static/media/profilePicture.233f5fcf50918bb6b225.png",
     "index.html": "/onlineportfoliov2/index.html",
     "main.6ccd65a8.css.map": "/onlineportfoliov2/static/css/main.6ccd65a8.css.map",
-    "main.16c86f8b.js.map": "/onlineportfoliov2/static/js/main.16c86f8b.js.map",
+    "main.a0ae644e.js.map": "/onlineportfoliov2/static/js/main.a0ae644e.js.map",
     "787.7409a542.chunk.js.map": "/onlineportfoliov2/static/js/787.7409a542.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ccd65a8.css",
-    "static/js/main.16c86f8b.js"
+    "static/js/main.a0ae644e.js"
   ]
 }
