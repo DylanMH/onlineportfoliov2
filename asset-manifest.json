@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/onlineportfoliov2/static/css/main.5983c6ec.css",
-    "main.js": "/onlineportfoliov2/static/js/main.5692db49.js",
+    "main.js": "/onlineportfoliov2/static/js/main.1cca2490.js",
     "static/js/787.7409a542.chunk.js": "/onlineportfoliov2/static/js/787.7409a542.chunk.js",
     "static/media/nspm.png": "/onlineportfoliov2/static/media/nspm.b7ca129f87696f3e1575.png",
+    "static/media/gitCert.png": "/onlineportfoliov2/static/media/gitCert.2494da8d194733ce4462.png",
     "static/media/webdevelopmentCert.png": "/onlineportfoliov2/static/media/webdevelopmentCert.13f0b7da611aca7a2313.png",
     "static/media/nodeCert.png": "/onlineportfoliov2/static/media/nodeCert.b09ca472d2bcba62c268.png",
     "static/media/reactCert.png": "/onlineportfoliov2/static/media/reactCert.64a234fd8ce292e42ee0.png",
     "static/media/webBadge.png": "/onlineportfoliov2/static/media/webBadge.30dc9984d22df0df5b97.png",
     "static/media/reactBadge.png": "/onlineportfoliov2/static/media/reactBadge.ca278821b38fac7ad27a.png",
     "static/media/nodeBadge.png": "/onlineportfoliov2/static/media/nodeBadge.c660b0e0fd8e5687731c.png",
+    "static/media/gitBadge.png": "/onlineportfoliov2/static/media/gitBadge.a750c74970c6ab02fae6.png",
     "static/media/eCommercePython.png": "/onlineportfoliov2/static/media/eCommercePython.0b64afed5d0a23ab7196.png",
     "static/media/tableauProject.png": "/onlineportfoliov2/static/media/tableauProject.d8337026b60b735f4450.png",
     "static/media/codecademyHTML.png": "/onlineportfoliov2/static/media/codecademyHTML.e96daa2ff1f98cc52737.png",
@@ -19,11 +21,11 @@
     "static/media/profilePicture.png": "/onlineportfoliov2/static/media/profilePicture.233f5fcf50918bb6b225.png",
     "index.html": "/onlineportfoliov2/index.html",
     "main.5983c6ec.css.map": "/onlineportfoliov2/static/css/main.5983c6ec.css.map",
-    "main.5692db49.js.map": "/onlineportfoliov2/static/js/main.5692db49.js.map",
+    "main.1cca2490.js.map": "/onlineportfoliov2/static/js/main.1cca2490.js.map",
     "787.7409a542.chunk.js.map": "/onlineportfoliov2/static/js/787.7409a542.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5983c6ec.css",
-    "static/js/main.5692db49.js"
+    "static/js/main.1cca2490.js"
   ]
 }
